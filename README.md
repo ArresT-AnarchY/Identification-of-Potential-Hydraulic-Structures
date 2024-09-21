@@ -19,7 +19,7 @@ Tested with Arcmap10.8.
 4. You will see the model in the .tbx. You can start directly. Check out the parameters below.
     
 ## Screenshot
-![module screenshot](https://prnt.sc/snLnNsZ99j8l)
+![module screenshot](https://tahayasin.com/github_images/identification.jpg)
 
   
 ## Users
