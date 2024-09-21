@@ -1,5 +1,5 @@
 
-# Title
+# Identification of Potential Hydraulic Structures with ArcGIS
 This model can be used in modeling processes related to forest roads and watersheds. It can provide important data to forest road planners and environmental planners for infrastructure projects planned in the area. The accuracy and usefulness of the developed model is open to be supported and improved by field studies and literature reviews.
 
 In the study, water lines cut by forest roads can be found automatically with ArcGIS modelbuilder. In addition, an automatic modularization system was created with Arcpy coding.
